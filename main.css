@@ -1,0 +1,27 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color:rgb(187, 110, 110) ;
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color:rgb(173, 252, 235) ;	
+}
+
+input
+{
+	margin: 10px;
+}
+body{
+	background-image:url("https://tse3.mm.bing.net/th?id=OIP.lPLHDhH77TcAexP6do4H2AHaEK&pid=Api&P=0&w=289&h=163");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h3{
+color: cyan;
+font-size: 45px;
+}
